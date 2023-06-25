@@ -1,0 +1,3 @@
+pytorch>=2.0
+scipy
+pywph
