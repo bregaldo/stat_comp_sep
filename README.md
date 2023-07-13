@@ -1,6 +1,6 @@
 # Codes for the paper 'Statistical Component Separation for Targeted Signal Recovery in Noisy Mixtures'
 
-We provide the codes and data associated with the paper 'Statistical Component Separation for Targeted Signal Recovery in Noisy Mixtures'. Please follow the installation procedure below, and take a look at the Jupyter notebook [examples/stat_comp_sep.ipynb](examples/stat_comp_sep.ipynb) to reproduce the results described in the paper.
+We provide the codes and data associated with the paper '[Statistical Component Separation for Targeted Signal Recovery in Noisy Mixtures](https://arxiv.org/abs/2306.15012)'. Please follow the installation procedure below, and take a look at the Jupyter notebook [examples/stat_comp_sep.ipynb](examples/stat_comp_sep.ipynb) to reproduce the results described in the paper.
 
 ## Installation
 
